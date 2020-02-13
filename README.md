@@ -6,6 +6,6 @@ __Note: I strongly suggest opening this file on google colab in order to take ad
 <hr>
 
 ## Pull requests always welcomed ! :)
-__Feel free to fork this and add your own changes to it. I will merge it.__
+
 
 
